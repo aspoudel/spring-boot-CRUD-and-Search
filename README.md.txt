@@ -1,0 +1,1 @@
+A Spring Boot project implementing the CRUD and search functionailities using the H2 in-memory database through Hibernate available via Spring Data JPA.
